@@ -5,7 +5,7 @@ Below I’ve assembled a list of companies that are centered around helping othe
 
 Next time you shop, shop for a cause! And when you get compliments on your new purchases, make sure you let people know where you got them!
 
-##[Out Of Print](https://www.outofprintclothing.com/)
+## [Out Of Print](https://www.outofprintclothing.com/)
 
 Fellow book worms, this company is for you! Out of Print sells literary themed apparel, children’s clothing, tote bags, accessories, socks, and much more! They offer collections based on over 20 different literary favorites including a few children books. Each purchase helps to fund literacy programs and book donations to communities in need. It also supports the authors, publishers and artists who made these iconic works an integral part of our lives.
 
