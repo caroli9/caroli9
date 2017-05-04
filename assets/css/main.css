@@ -2798,12 +2798,12 @@
 	}
 
 .alt {
-    background-color: black;
-    color: black;
+    background-color: #e89980;
+    color: #e89980;
 }
 
 	#header {
-		background: black;
+		background: #e89980;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -2938,7 +2938,7 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background: grey;
+			background: #e89980;
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
 		}
@@ -3065,6 +3065,7 @@
 		#banner p {
 			font-size: 1.25em;
 			margin-bottom: 1.75em;
+            color: #e89980;
 		}
 
 		#banner input[type="submit"],
@@ -3364,7 +3365,7 @@
 
 			#header {
 				display: none;
-                background-color: black;
+                background-color: #e89980;
 			}
 
 		/* Banner */
